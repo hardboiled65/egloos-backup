@@ -1,0 +1,4 @@
+main.py.bak
+posts/*
+__pycache__
+post_index.json
